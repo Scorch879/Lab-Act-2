@@ -1992,7 +1992,7 @@
             Controls.Add(tabControl1);
             Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
-            Text = "Form1";
+            Text = "Health Survey Program";
             TextChanged += submitbtn_Click;
             tabControl1.ResumeLayout(false);
             tabPage1.ResumeLayout(false);
